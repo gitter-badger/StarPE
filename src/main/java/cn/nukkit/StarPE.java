@@ -1,8 +1,8 @@
-package cn.starpe;
+package nukkit.cn.starpe;
 
-import cn.star.command.CommandReader;
-import cn.startpe.MainLogger;
-import cn.starpe.utils.ServerKiller;
+import nukkit.cn.star.command.CommandReader;
+import nukkit.cn.startpe.MainLogger;
+import nukkit.cn.starpe.utils.ServerKiller;
 
 /**
  *   ----   -------      /-\		|----\	  |----\ |------
