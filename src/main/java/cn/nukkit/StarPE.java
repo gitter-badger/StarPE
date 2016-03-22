@@ -5,13 +5,13 @@ import nukkit.cn.startpe.MainLogger;
 import nukkit.cn.starpe.utils.ServerKiller;
 
 /**
- *   ----   
- *  |		   
- * 	|		  
- *   ----    
+ *   -----   
+ *   |		   
+ * 	 |		  
+ *   -----   
  *		 |     
  *		 |     
- *	 ----       
+ *	 -----       
  */
 
 /**
